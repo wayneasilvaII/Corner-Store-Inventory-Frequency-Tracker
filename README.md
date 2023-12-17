@@ -4,13 +4,13 @@ About:
   This project solves the problem of tracking inventory on-hands for small businesses. It does this by automatically reading from a text file containing the names of various inventory items listed and counting the frequency of those inventory items. 
   The program allows the user to search for items and their current quantity, list all current inventory items and their quantities, and display a histogram created using the frequency of each item found in the database (text file). Additionally, with each option selection, the program will automatically query the backend to ensure that the data provided is up-to-date.
   
-What does the project do well?
+What does the project do well:
   I am particularly proud of the automatic query feature and histogram. This program is reuasble in other contexts and will be useful in other data analysis projects.
   
-Where can this code be improved?
+Where can this code be improved:
   This project could use a more interesting user interface, more data visualization options, and the ability to query other types of text files or data bases. For instance, the program could be extended to count word frequency in a text file.
   
-What were the challenges?
+What were the challenges:
   When writing this program, I found that working with pointers and storing the data line by line into a set was more cumbersome than simply reading data into a dynamic array in, say, Python or JavaScript. The end result, however, is a quick data retrieval and backup!
 
 Transferable skills:
